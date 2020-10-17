@@ -1,0 +1,21 @@
+{
+  "name": "gdalnpm",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "GDAL",
+    "geotiff",
+    "geospatial",
+    "gdal",
+    "geospatialpdf",
+    "geotiff",
+    "conversion",
+    "geopdf to geotiff"
+  ],
+  "author": "Rohit Sharma",
+  "license": "ISC"
+}
